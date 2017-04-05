@@ -1,0 +1,33 @@
+.extra-logo {
+    margin-top: 18px;
+}
+
+.extra-text {
+    max-width: 600px;
+}
+
+.show-col1 {
+    flex-basis: 33%;
+}
+
+.previous-episodes {
+    margin-bottom: 36px;
+}
+
+.previous-headline {
+    border-bottom: none;
+    margin-top: 36px;
+}
+}
+
+ul.episode-list > li {
+    line-height: 2.2;
+    display: inline-block;
+    width: 40%;
+}
+
+ul.episode-list > li {
+    line-height: 2.2;
+    display: inline-block;
+    width: 40%;
+}
